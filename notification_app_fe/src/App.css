@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #a38ef6;
+}
+
+.app {
+  padding: 20px;
+}
+
+.app__title {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+button {
+  margin: 5px;
+  padding: 6px 12px;
+  border: none;
+  background: #f8a4e4;
+  color: rgb(47, 43, 43);
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #357bd8;
+}
+
+h2 {
+  margin-top: 20px;
+}
+
+div {
+  border-radius: 6px;
+}
